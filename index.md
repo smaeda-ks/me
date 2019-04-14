@@ -10,7 +10,7 @@ Engineer, Amateur Videographer
 - MV「地球滅亡」: [YouTube](https://youtu.be/kZzqYwn1y-k)  
 Main Camera Operator
 
-- Short Horror Film (No Title): [YouTube](https://youtu.be/P5z0xi_trUY)
+- Short Horror Film (No Title): [YouTube](https://youtu.be/P5z0xi_trUY)  
 Main Camera Operator
 
 #### 2018
