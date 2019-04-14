@@ -7,7 +7,7 @@ Engineer, Amateur Videographer
 ### Works (Video Production)
 
 #### 2019
-- MV「地球滅亡」: [YouTube](https://youtu.be/kZzqYwn1y-k)  
+- MV「地球滅亡」by MORISAKI SHINYA: [YouTube](https://youtu.be/kZzqYwn1y-k)  
 Main Camera Operator
 
 - Short Horror Film (No Title): [YouTube](https://youtu.be/P5z0xi_trUY)  
@@ -15,13 +15,16 @@ Main Camera Operator
 (This film was used for a haunted house's promotion and was actually played in the house.)
 
 #### 2018
-- MV「女児 in my heart」: [YouTube](https://youtu.be/F2G44eS6aco)  
+- MV「女児 in my heart」by MORISAKI SHINYA: [YouTube](https://youtu.be/F2G44eS6aco)  
 Main Camera Operator
 
 - Yamagoya Meetup 2018 Highlights: [Vimeo](https://vimeo.com/299163951)  
 Director, Camera Operator
 
 #### 2013
+- MV "Omen Man" by [Leo Imai](http://www.leoimai.com/)  
+Lighting crew
+
 - Short Comedy Film【密室サスペンス】LittleNatural ～その時、部屋が動いた～: YouTube Part. [1/2](https://youtu.be/xVToGNMoih8), [2/2](https://youtu.be/86HVft4g4SY)  
 Assistant Director, Camera Operator
 
