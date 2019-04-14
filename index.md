@@ -28,7 +28,7 @@ Assistant Director, Camera Operator
 
 #### 2014
 - Linux ELF Malware Analysis Cooperation  
-Report: http://blog.malwaremustdie.org/2014/05/elf-shared-so-dynamic-library-malware.html  
+Report: [http://blog.malwaremustdie.org/2014/05/elf-shared-so-dynamic-library-malware.html](http://blog.malwaremustdie.org/2014/05/elf-shared-so-dynamic-library-malware.html)  
 After the analysis with [@MalwareMustDie](http://www.malwaremustdie.org/), this malware was [named](https://www.f-secure.com/weblog/archives/00002727.html) `Linux/Mayhem` by F-Secure.
 
 #### 2013
