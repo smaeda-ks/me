@@ -1,6 +1,6 @@
 ## Shohei Maeda
 
-Engineer, Amateur Videographer
+Engineer, _Amateur_ Videographer
 
 - Twitter: [@jrsyo](https://twitter.com/jrsyo)
 
