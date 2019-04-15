@@ -10,7 +10,7 @@ Engineer, _Amateur_ Videographer
 - MV「地球滅亡」by MORISAKI SHINYA: [YouTube](https://youtu.be/kZzqYwn1y-k)  
 Main Camera Operator
 
-- Short Horror Film (No Title): [YouTube](https://youtu.be/BuM4SNVS_u8) *This is Shortened Version  
+- Short Horror Film (No Title): [YouTube](https://youtu.be/BuM4SNVS_u8) *Shortened Version  
 Main Camera Operator  
 (This was used for a haunted house's promotion and the original version was played in the house.)
 
