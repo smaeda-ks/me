@@ -26,7 +26,7 @@ Director, Camera Operator
 Lighting crew
 
 - Short Comedy Film【密室サスペンス】LittleNatural ～その時、部屋が動いた～: YouTube Part. [1/2](https://youtu.be/xVToGNMoih8), [2/2](https://youtu.be/86HVft4g4SY)  
-Assistant Director, Camera Operator
+Assistant Director, Camera Operator, Switcher
 
 ### Works (Other)
 
