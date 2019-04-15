@@ -31,6 +31,9 @@ Assistant Director, Camera Operator
 ### Works (Other)
 
 #### 2016
+- [YouTuber][avntis] 2015-2016, A Series of "質問コーナー(Q&A)": [YouTube](https://youtu.be/VZtLgfr3piY) *sample  
+Production Cooperation, Camera Operator
+
 - [YouTuber][avntis] 友達を400キロ離れた街に置いてきた！！: YouTube [1/4](https://youtu.be/66gBGskxy6M), [2/4](https://youtu.be/x4LjkH3iNSE), [3/4](https://youtu.be/1lfUWTcAbO4), [4/4](https://youtu.be/PXLSG0hDlIs)  
 Assistant Director, Cameraman
 
