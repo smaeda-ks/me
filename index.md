@@ -26,13 +26,13 @@ Director, Camera Operator
 Lighting crew
 
 - Short Comedy Film【密室サスペンス】LittleNatural ～その時、部屋が動いた～: YouTube Part. [1/2](https://youtu.be/xVToGNMoih8), [2/2](https://youtu.be/86HVft4g4SY)  
-Assistant Director, Camera Operator, Switcher
+Assistant Director, Camera Operator
 
 ### Works (Other)
 
 #### 2016
 - [YouTuber][avntis] 2015-2016, A Series of "質問コーナー(Q&A)": [YouTube](https://youtu.be/VZtLgfr3piY) *sample  
-Production Cooperation, Camera Operator
+Production Cooperation, Camera Operator, Switcher
 
 - [YouTuber][avntis] 友達を400キロ離れた街に置いてきた！！: YouTube [1/4](https://youtu.be/66gBGskxy6M), [2/4](https://youtu.be/x4LjkH3iNSE), [3/4](https://youtu.be/1lfUWTcAbO4), [4/4](https://youtu.be/PXLSG0hDlIs)  
 Assistant Director, Cameraman
