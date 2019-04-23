@@ -53,6 +53,6 @@ Report: [http://blog.malwaremustdie.org/2014/05/elf-shared-so-dynamic-library-ma
 After the analysis with [@MalwareMustDie](http://www.malwaremustdie.org/), this malware was [named](https://www.f-secure.com/weblog/archives/00002727.html) `Linux/Mayhem` by F-Secure.
 
 #### 2013
-- On TV News Show: [YouTube](https://youtu.be/TevKmexDy_Q)  
+- On TV News Show:   
 Cybercrime Investigation Cooperation (We solved the puzzle and reported it to the MPD - Metropolitan Police Department.)  
 About the case: Read on [Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%81%A0%E9%9A%94%E6%93%8D%E4%BD%9C%E4%BA%8B%E4%BB%B6)
